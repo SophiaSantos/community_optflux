@@ -10,5 +10,11 @@ The model can then be simulated analyzed using all features of the OptFlux 3.2.8
 - biomass reaction ID
 - weight of each organism in total biomass (value between 0-1, sum of all values equal to 1)
 
+### Output
+- Microbial community genome-scale metabolic model
+
+### Pre-requisites
+Git and JDK 8 update 20 or later
+
 ### References
-Rocha I. , Maia P., Evangelista P., Vilaça P., Soares S., Pinto J. P., Nielsen J., Patil K. R., Ferreira E. C., Rocha M. (2010) *OptFlux: an open-source software platform for in silico metabolic engineering*.BMC Systems Biology. 4:45;
+Rocha I. , Maia P., Evangelista P., Vilaça P., Soares S., Pinto J. P., Nielsen J., Patil K. R., Ferreira E. C., Rocha M. (2010) *OptFlux: an open-source software platform for in silico metabolic engineering*.BMC Systems Biology. 4:45
